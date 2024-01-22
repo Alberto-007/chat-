@@ -1,0 +1,8 @@
+body{
+  height: 100vh;
+  background: url('https://wallpapercave.com/wp/wp5740236.png');
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
